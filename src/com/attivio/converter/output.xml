@@ -1,0 +1,13 @@
+<root>
+	<record>
+		<ele1>abc</ele1>
+		<undefined_ColumnName>jklm dssd</undefined_ColumnName>
+		<ele3>def</ele3>
+		<ele4>ghi</ele4>
+	</record>
+	<record>
+		<ele1>abc2</ele1>
+		<ele3>def2</ele3>
+		<ele4>ghi2</ele4>
+	</record>
+</root>

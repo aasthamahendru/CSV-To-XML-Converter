@@ -1,0 +1,6 @@
+CustomerID, Name,City, Amount, Zip Code
+1,Ana, Boston,6.88,02215
+2,Antonio,Cambridge,-100.90, 02215 6789
+3, Rachel, New York, 30, 10016
+4,Kate, Boston, , 02115 7890
+,,,
